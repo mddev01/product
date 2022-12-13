@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.effect{
+    width: 1109.83px;
+    height: 473.47px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 172px;
+    justify-content: space-between;
+}
+.h1man{
+    width: 224px;
+    height: 48px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #22343D;
+    margin-bottom: 131px;
+}
+.pacc{
+    width: 151px;
+    height: 26px;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #22343D;
+}
+.pWhi{
+    width: 400px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #22343D;
+    margin-bottom: 25px;
+}
+.pEff{
+    width: 189px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #22343D;
+    margin-bottom: 8px;
+}
+.pAl{
+    width: 109px;
+    height: 26px;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: #22343D;
+}
+.pif{
+    width: 400px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #22343D;
+}
+.amico{
+    width: 539.83px;
+    height: 473.47px;
+}
+.costumer{
+    width: 1123px;
+    height: 500px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 146.83px;
+    justify-content: space-between;
+}
+.taytle{
+    margin-left: 94px;
+}
+.h3eas{
+    width: 215px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 8px;
+    color: #22343D;
+}
+.h1cos{
+    width: 303px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #22343D;
+    margin-bottom: 23px;
+}
+.pthe{
+    width: 400px;
+    height: 78;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;
+    margin-bottom: 30px;
+}
+.galoch{
+    display: flex;
+}
+.pne{
+    width: 385px;
+
+    font-weight: 400;
+    font-size: 18px;
+    color: #22343D;
+    margin-left: 30px;
+
+}
+.callobrat{
+    width: 1109.83px;
+    height: 473.47px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 172px;
+    justify-content: space-between;
+}
+.pEff1{
+    width: 189px;
+    height: 24px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #22343D;
+    margin-bottom: 8px;
+}
+.h1man{
+    width: 226px;
+    height: 48px;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    color: #22343D;
+    margin-bottom: 23px;
+}
+.pfew{
+    width: 380px;
+    height: 78px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #22343D;
+    margin-bottom: 30px;
+}

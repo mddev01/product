@@ -1,0 +1,71 @@
+.bsg{
+    height: 389px;
+    margin-top: 180px;
+    position: relative;
+}
+.quick{
+    width: 348px;
+    height: 48px;
+    font-weight: 700;
+    font-size: 32px;
+    color: #22343D;
+    position: absolute;
+    margin-top: -350px;
+    margin-left: 550px;
+}
+.do{
+    width: 500px;
+    height: 52px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    position: absolute;
+    margin-top: -300px;
+    margin-left: 500px;;
+}
+.opa{
+    position: absolute;
+    width: 388px;
+    height: 120px;
+    margin-top: -230px;
+    margin-left: 300px;
+}
+.hola{
+    position: absolute;
+    width: 388px;
+    height: 120px;
+    margin-top: -230px;
+    margin-left: 800px;
+}
+.aka{
+    position: absolute;
+    width: 388px;
+    height: 120px;
+    margin-top: -90px;
+    margin-left: 300px;
+}
+.toga{
+    position: absolute;
+    width: 388px;
+    height: 120px;
+    margin-top: -90px;
+    margin-left: 800px;
+}
+.contact{
+    position: absolute;
+    width: 216px;
+    height: 53px;
+    border-radius: 4px;
+    border: 1px solid #02897A;
+    background-color: #02897A;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    margin-top: 70px;
+    margin-left: 635px;
+}

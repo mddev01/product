@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hero{
+    width: 1091px;
+    height: 555.72px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 105px;
+}
+.work{
+    margin-top: 170px;
+}
+.speed{
+    width: 350px;
+    height: 120px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #22343D;
+    margin-right: 168px;
+}
+.tools{
+    width: 370px;
+    height: 95px;
+    font-size: 18px;
+    color: #22343D;
+}
+.get{
+    width: 175px;
+    height: 53px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    background-color: #02897A;
+    color: #fff;
+    border: 1px solid #02897A;
+    font-size: 16px;
+}
+.tringle{
+    width: 20px;
+    height: 17px;
+    margin-left: 30.5px;
+}
+.watch{
+    width: 135px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #02897A;
+    margin-left: 8.5px;
+    margin-top: -5px;
+}
+.was{
+    width: 450px;
+    height: 96px;
+    margin: 0 auto;
+    margin-top: 144.28px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #22343D;
+}
+.bg{
+    width: 1095px;
+    height: 389.09px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 56px;
+    justify-content: space-between;
+}
+
+.firsts{
+    width: 164px;
+    height: 33px;
+    color: #22343D;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.firstp{
+    width: 200px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #22343D;
+}
+.bgs{
+    width: 1400px;
+    margin-top: -600px;
+    position: relative;
+}
+.designs{
+    width: 164px;
+    height: 33px;
+    color: #22343D;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.designp{
+    width: 200px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #22343D;
+}
+.preferences{
+    width: 164px;
+    height: 33px;
+    color: #22343D;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.preferencep{
+    width: 200px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #22343D;
+}
+.fives{
+    width: 164px;
+    height: 33px;
+    color: #22343D;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.fivep{
+    width: 200px;
+    height: 52px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #22343D;
+}
+.singupnow{
+    background-color: #02897A;
+    width: 175px;
+    height: 53px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+    border: 1px solid #02897A;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: -800px;
+    position: absolute;
+    margin-top: -150px;
+}
